@@ -1,0 +1,8 @@
+---
+title: "rmarkdown"
+author: "CP-venkataramayya"
+date: "7/08/2022"
+output: pdf_document
+---
+
+## This is a markdown file
